@@ -1,6 +1,6 @@
 # Algorithm-With-Cplusplus-
 
-Coding Algorithm in C++
+Demonstrate Algorithms in C++
 - Sorting Algorithm: 
     1. Selection Sort
     2. Bubble Sort
